@@ -11,7 +11,6 @@ both licensed under Apache 2.0 http://www.apache.org/licenses/LICENSE-2.0
 
 - @SimpsonsQOTD on Twitter : https://twitter.com/SimpsonsQOTD
 
-all original code licensed under Apache 2.0.
 made for [/u/Pockets6794](https://pay.reddit.com/user/Pockets6794)
 
 > Written with [StackEdit](https://stackedit.io/).
