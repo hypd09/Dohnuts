@@ -1,4 +1,4 @@
-Dohnuts or 'Do'h nuts'	{#welcome}
+Dohnuts or 'Do'h nuts'
 ----------------------
 A very basic application which displays randomly picked quote from [The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)(©Fox) show.
 
