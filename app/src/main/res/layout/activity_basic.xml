@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="false"
+    tools:context=".BasicRandomQuoteActivity">
+
+    <ImageView
+        android:id="@+id/background_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/quote"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/quote_image_cd"
+        android:fitsSystemWindows="false"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/quote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="104dp"
+        android:minHeight="105dp"
+        android:padding="24dp"
+        android:text=""
+        android:textColor="#fff"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

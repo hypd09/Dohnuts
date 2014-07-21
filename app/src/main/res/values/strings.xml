@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dohnuts</string>
+    <string name="quote_image_cd">quote image</string>
+    <string name="action_random_string">Random</string>
+
+</resources>
